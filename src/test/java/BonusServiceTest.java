@@ -1,5 +1,6 @@
 import static org.junit.jupiter.api.Assertions.*;
 
+
 public class BonusServiceTest {
 
     @org.junit.jupiter.api.Test
